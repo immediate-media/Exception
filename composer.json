@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/exception",
+    "name"       : "immediate-media/hoa-exception",
     "description": "The Hoa\\Exception library.",
     "type"       : "library",
     "keywords"   : ["library", "exception"],
@@ -23,8 +23,8 @@
         "source": "https://central.hoa-project.net/Resource/Library/Exception"
     },
     "require": {
-        "hoa/consistency": "~1.0",
-        "hoa/event"      : "~1.0"
+        "immediate-media/hoa-consistency": "~1.0",
+        "immediate-media/hoa-event"      : "~1.0"
     },
     "require-dev": {
         "hoa/test": "~2.0"
